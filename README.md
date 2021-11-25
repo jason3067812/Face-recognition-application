@@ -34,7 +34,7 @@
   <img  src="https://user-images.githubusercontent.com/56544982/143415359-75c7a9f4-4c8a-4371-8fcb-63622771fc7f.png">
 </p>
 
-## Key algorithm
+## Some algorithms
 1. Using human faces 68 landmarks to implement face angle detection
 2. Increasing frames rate by calculating bbox iou to implement face tracking 
 <br>< If you want to learn more please feel free to email me! >
