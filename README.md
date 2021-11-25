@@ -68,6 +68,7 @@
   <img  src="https://user-images.githubusercontent.com/56544982/143416106-ffb51685-2b8d-438b-81ce-1084b7eb2623.png">
 </p>
 
+### You can see more demo in demo folder!
 
 ## Reference
 I learn a lot from https://github.com/shaoanlu/face_toolbox_keras, and https://github.com/nasir6/rPPG. Really thanks to them~
