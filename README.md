@@ -1,7 +1,7 @@
 # Side_Project-Face_recognition_application
 ## This project is the application of face recognition. There are two applications:
 1.multi-angle face recognition
-2.RPPG based on face recognition
+<br>2.RPPG based on face recognition
 
 ## Requirements
 
