@@ -10,7 +10,8 @@
 - Pytorch
 - OpenCv
 - Matplotlib, Scipy, Pillow
+- Please download models file from https://drive.google.com/file/d/1TSWXg9v4-IzWG0gXAKe89Bfqi31B9Y8D/view?usp=sharing. Extract and place it on the outermost folder.
 ## Usage
-Please download models file from https://drive.google.com/file/d/1TSWXg9v4-IzWG0gXAKe89Bfqi31B9Y8D/view?usp=sharing. Extract and place it on the outermost folder.
+### 1.multi-angle face recognition
 ## Reference
 I learn a lot from https://github.com/shaoanlu/face_toolbox_keras, and https://github.com/nasir6/rPPG. Really thanks to them~
