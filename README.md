@@ -10,7 +10,9 @@
 - Pytorch
 - OpenCv
 - Matplotlib, Scipy, Pillow
-- Please download models file from https://drive.google.com/file/d/1TSWXg9v4-IzWG0gXAKe89Bfqi31B9Y8D/view?usp=sharing. Extract and place it on the outermost folder
+- Please download models file from:
+<br>https://drive.google.com/file/d/1TSWXg9v4-IzWG0gXAKe89Bfqi31B9Y8D/view?usp=sharing 
+<br>Extract and place it on the layer same as demo folder
 ## Usage
 ### - Multi-angle face recognition
 1. Enter the database directory and put three face photos with different angles into three corresponding folders
