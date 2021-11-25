@@ -31,9 +31,11 @@
 <p align="center">
   <img  src="https://user-images.githubusercontent.com/56544982/143415359-75c7a9f4-4c8a-4371-8fcb-63622771fc7f.png">
 </p>
+
 ## Key algorithm
 1. Using human faces 68 landmarks to implement face angle detection
 2. Increasing frames rate by calculating bbox iou to implement face tracking 
+
 ## Interface demo
 ### - Multi-angle face recognition
 <p align="center">
@@ -55,10 +57,5 @@
 </p>
 
 
-
 ## Reference
 I learn a lot from https://github.com/shaoanlu/face_toolbox_keras, and https://github.com/nasir6/rPPG. Really thanks to them~
-
-<p align="center">
-  <img  src="https://user-images.githubusercontent.com/56544982/143400529-8bad8c8b-9460-49cf-b9c0-28404c37cc36.png">
-</p>
