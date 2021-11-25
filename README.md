@@ -35,7 +35,7 @@
 ## Key algorithm
 1. Using human faces 68 landmarks to implement face angle detection
 2. Increasing frames rate by calculating bbox iou to implement face tracking 
-</b>If you want to learn more please feel free to email me!
+<br>If you want to learn more please feel free to email me!
 
 ## Interface demo
 ### - Multi-angle face recognition
@@ -48,7 +48,7 @@
 <p align="center">
   <img  src="https://user-images.githubusercontent.com/56544982/143415757-fa944baa-7880-4dee-ae1f-964dfc90c52b.png">
 </p>
-</b>
+<br>
 
 ### - RPPG based on face recognition
 #### * Status: tracking
