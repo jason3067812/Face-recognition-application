@@ -12,6 +12,9 @@
 - Matplotlib, Scipy, Pillow
 - Please download models file from https://drive.google.com/file/d/1TSWXg9v4-IzWG0gXAKe89Bfqi31B9Y8D/view?usp=sharing. Extract and place it on the outermost folder.
 ## Usage
-### 1.multi-angle face recognition
+### Multi-angle face recognition
+1. Enter the database directory and put three face photos with different angles into three corresponding folders
+2. Run Face_recognition_v7_Multiple angle detection.ipynb
+
 ## Reference
 I learn a lot from https://github.com/shaoanlu/face_toolbox_keras, and https://github.com/nasir6/rPPG. Really thanks to them~
