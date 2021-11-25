@@ -20,8 +20,29 @@
 2. Enter the name you want to detect. This name must be stored in the database
 3. enter "q" to exist system ; "s" to change the person you want to detect
 4. get result.png in the outermost folder.
-## Demo
+## System activity diagram
 ### - Multi-angle face recognition
+<p align="center">
+  <img width="600" height="400" src="https://user-images.githubusercontent.com/56544982/143415234-3af31f5f-1bde-4ca4-83d3-a36ea0aa7e86.png">
+</p>
 ### - RPPG based on face recognition
+<p align="center">
+  <img width="600" height="400" src="https://user-images.githubusercontent.com/56544982/143415359-75c7a9f4-4c8a-4371-8fcb-63622771fc7f.png">
+</p>
+
+
+## Demo
+
+
+### - Multi-angle face recognition
+<p align="center">
+  <img width="600" height="400" src="https://user-images.githubusercontent.com/56544982/143415495-6fc0d3a1-45e7-49a2-ab29-5aee959754b8.png">
+</p>
+### - RPPG based on face recognition
+
 ## Reference
 I learn a lot from https://github.com/shaoanlu/face_toolbox_keras, and https://github.com/nasir6/rPPG. Really thanks to them~
+
+<p align="center">
+  <img width="600" height="400" src="https://user-images.githubusercontent.com/56544982/143400529-8bad8c8b-9460-49cf-b9c0-28404c37cc36.png">
+</p>
