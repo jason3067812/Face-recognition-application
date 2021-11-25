@@ -32,13 +32,15 @@
   <img  src="https://user-images.githubusercontent.com/56544982/143415359-75c7a9f4-4c8a-4371-8fcb-63622771fc7f.png">
 </p>
 
-
-## Demo
+## Interface demo
 
 
 ### - Multi-angle face recognition
 <p align="center">
   <img  src="https://user-images.githubusercontent.com/56544982/143415495-6fc0d3a1-45e7-49a2-ab29-5aee959754b8.png">
+</p>
+<p align="center">
+  <img  src="https://user-images.githubusercontent.com/56544982/143415757-fa944baa-7880-4dee-ae1f-964dfc90c52b.png">
 </p>
 ### - RPPG based on face recognition
 
