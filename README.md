@@ -35,7 +35,7 @@
 ## Key algorithm
 1. Using human faces 68 landmarks to implement face angle detection
 2. Increasing frames rate by calculating bbox iou to implement face tracking 
-<br>If you want to learn more please feel free to email me!
+<br><If you want to learn more please feel free to email me!>
 
 ## Interface demo
 ### - Multi-angle face recognition
