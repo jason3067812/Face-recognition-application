@@ -12,10 +12,10 @@
 - Matplotlib, Scipy, Pillow
 - Please download models file from https://drive.google.com/file/d/1TSWXg9v4-IzWG0gXAKe89Bfqi31B9Y8D/view?usp=sharing. Extract and place it on the outermost folder
 ## Usage
-### Multi-angle face recognition
+### - Multi-angle face recognition
 1. Enter the database directory and put three face photos with different angles into three corresponding folders
 2. Run Face_recognition_v7_Multiple angle detection.ipynb
-### RPPG based on face recognition
+### - RPPG based on face recognition
 1. Run run.py
 2. Enter the name you want to detect. This name must be stored in the database
 3. enter "q" to exist system ; "s" to change the person you want to detect
