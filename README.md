@@ -1,4 +1,4 @@
-# Face recognition application
+# Face recognition applications
 ## This project is the application of face recognition. There are two applications:
 1. Multi-angle face recognition
 2. RPPG based on face recognition
