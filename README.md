@@ -14,21 +14,21 @@
 <br>https://drive.google.com/file/d/1TSWXg9v4-IzWG0gXAKe89Bfqi31B9Y8D/view?usp=sharing 
 <br>Extract and place it on the layer same as demo folder
 ## Usage
-### - Multi-angle face recognition
+### - 1. Multi-angle face recognition
 1. Enter the database directory and put three face photos with different angles into three corresponding folders
 2. Run Face_recognition_v7_Multiple angle detection.ipynb
-### - RPPG based on face recognition
+### - 2. RPPG based on face recognition
 1. Run run.py
 2. Enter the name you want to detect. This name must be stored in the database
 3. enter "q" to exist system ; "s" to change the person you want to detect
 4. get result.png in the outermost folder.
 ## System activity diagram
-### - Multi-angle face recognition
+### - 1. Multi-angle face recognition
 <p align="center">
   <img src="https://user-images.githubusercontent.com/56544982/143415234-3af31f5f-1bde-4ca4-83d3-a36ea0aa7e86.png">
 </p>
 
-### - RPPG based on face recognition
+### - 2. RPPG based on face recognition
 
 <p align="center">
   <img  src="https://user-images.githubusercontent.com/56544982/143415359-75c7a9f4-4c8a-4371-8fcb-63622771fc7f.png">
@@ -40,7 +40,7 @@
 <br>< If you want to learn more please feel free to email me! >
 
 ## Interface demo
-### - Multi-angle face recognition
+### - 1. Multi-angle face recognition
 #### * Display result
 <p align="center">
   <img  src="https://user-images.githubusercontent.com/56544982/143415495-6fc0d3a1-45e7-49a2-ab29-5aee959754b8.png">
@@ -52,7 +52,7 @@
 </p>
 <br>
 
-### - RPPG based on face recognition
+### - 2. RPPG based on face recognition
 #### * Status: tracking
 <p align="center">
   <img  src="https://user-images.githubusercontent.com/56544982/143416060-0e7bf2c1-4162-43da-8034-eb2d0b186b74.png">
