@@ -46,7 +46,7 @@
   <img  src="https://user-images.githubusercontent.com/56544982/143415495-6fc0d3a1-45e7-49a2-ab29-5aee959754b8.png">
 </p>
 
-#### * Alert
+#### * System alert
 <p align="center">
   <img  src="https://user-images.githubusercontent.com/56544982/143415757-fa944baa-7880-4dee-ae1f-964dfc90c52b.png">
 </p>
@@ -58,7 +58,7 @@
   <img  src="https://user-images.githubusercontent.com/56544982/143416060-0e7bf2c1-4162-43da-8034-eb2d0b186b74.png">
 </p>
 
-##### * Alert
+##### * System alert
 <p align="center">
   <img  src="https://user-images.githubusercontent.com/56544982/143416080-b7476711-d0d9-4641-baa7-f4abaf53f39b.png">
 </p>
