@@ -25,7 +25,7 @@
 ## System activity diagram
 ### - 1. Multi-angle face recognition
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/56544982/143415234-3af31f5f-1bde-4ca4-83d3-a36ea0aa7e86.png">
+  <img src="https://user-images.githubusercontent.com/56544982/143415234-3af31f5f-1bde-4ca4-83d3-a36ea0aa7e86.png" alt="Cover" width="50%"/>
 </p>
 
 ### - 2. RPPG based on face recognition
