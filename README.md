@@ -70,5 +70,12 @@
 
 ### You can see more demo in demo folder!
 
+## Video demo
+1. https://www.youtube.com/watch?v=REs7uZorsTM
+2. https://www.youtube.com/watch?v=NY3-r8kwT0c
+3. https://www.youtube.com/watch?v=s_JlWngLz4o
+
 ## Reference
-I learn a lot from https://github.com/shaoanlu/face_toolbox_keras, and https://github.com/nasir6/rPPG. Really thanks to them!
+I learn a lot from the following websites. Really thanks to them!
+- https://github.com/shaoanlu/face_toolbox_keras
+- https://github.com/nasir6/rPPG 
