@@ -67,7 +67,7 @@
   <img  src="https://user-images.githubusercontent.com/56544982/143416080-b7476711-d0d9-4641-baa7-f4abaf53f39b.png" alt="Cover" width="50%"/>
 </p>
 
-##### * Display result
+##### * Display final result
 <p align="center">
   <img  src="https://user-images.githubusercontent.com/56544982/143416106-ffb51685-2b8d-438b-81ce-1084b7eb2623.png" alt="Cover" width="50%"/>
 </p>
