@@ -72,7 +72,7 @@
   <img  src="https://user-images.githubusercontent.com/56544982/143416106-ffb51685-2b8d-438b-81ce-1084b7eb2623.png" alt="Cover" width="50%"/>
 </p>
 
-## Video demo
+## Demo Videos
 1. https://www.youtube.com/watch?v=REs7uZorsTM
 2. https://www.youtube.com/watch?v=NY3-r8kwT0c
 3. https://www.youtube.com/watch?v=s_JlWngLz4o
