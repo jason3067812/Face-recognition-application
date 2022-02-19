@@ -7,9 +7,9 @@ This project is the application of face recognition. There are two applications:
 - Python 3
 - Keras 2.2.4
 - TensorFlow 1.12.0 or 1.13.1
-- Numpy
+- NumPy
 - Pytorch
-- OpenCv
+- OpenCV
 - Matplotlib, Scipy, Pillow
 - Please download models file from:
 <br>https://drive.google.com/file/d/1TSWXg9v4-IzWG0gXAKe89Bfqi31B9Y8D/view?usp=sharing 
