@@ -32,6 +32,10 @@
   <img src="https://user-images.githubusercontent.com/56544982/143415234-3af31f5f-1bde-4ca4-83d3-a36ea0aa7e86.png" alt="Cover" width="60%"/>
 </p>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/56544982/154789496-84a0be4c-cbf0-47a9-b53e-22921bd64050.png" alt="Cover" width="60%"/>
+</p>
+
 ### - 2. RPPG Based on Face Recognition
 
 <p align="center">
