@@ -50,7 +50,9 @@
 
 2. Increasing frames rate by calculating bbox iou to implement face tracking 
 
-
+<p align="center">
+  <img  src="https://user-images.githubusercontent.com/56544982/154789576-4754c47d-5e82-4972-9145-3705df7b6cb5.png" alt="Cover" width="60%"/>
+</p>
 
 ## Interface demo
 ### - 1. Multi-Angle Face Recognition
