@@ -1,7 +1,7 @@
 # Face Recognition Applications
-## This project is the application of face recognition. There are two applications:
-1. Multi-angle face recognition
-2. RPPG based on face recognition
+This project is the application of face recognition. There are two applications:
+  1. Multi-angle face recognition
+  2. RPPG based on face recognition
 
 ## Requirements
 - Python 3
