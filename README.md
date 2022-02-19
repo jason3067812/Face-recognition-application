@@ -48,6 +48,10 @@ This project is the application of face recognition. There are two applications:
   <img  src="https://user-images.githubusercontent.com/56544982/154789750-d944a90c-041e-4f34-a39a-59b1f0676bbb.png" alt="Cover" width="60%"/>
 </p>
 
+<p align="center">
+  <img  src="https://user-images.githubusercontent.com/56544982/154790058-fda08eb9-35ae-41d1-a20d-def826c05731.png" alt="Cover" width="60%"/>
+</p>
+
 2. Increasing frames rate by calculating bboxes' iou to implement face tracking:
 
 <p align="center">
