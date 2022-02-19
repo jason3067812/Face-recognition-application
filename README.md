@@ -45,7 +45,7 @@
 1. Using human faces 68 landmarks to implement face angle detection:
 
 <p align="center">
-  <img  src="https://user-images.githubusercontent.com/56544982/154789611-ad886415-4cb5-48b3-ac1a-734ac4f4fb8e.png" alt="Cover" width="60%"/>
+  <img  src="https://user-images.githubusercontent.com/56544982/154789691-b8c10784-0105-4499-9f55-e9517a898e79.png" alt="Cover" width="60%"/>
 </p>
 
 2. Increasing frames rate by calculating bbox iou to implement face tracking:
