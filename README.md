@@ -42,7 +42,7 @@ This project is the application of face recognition. There are two applications:
 </p>
 
 ## Algorithms Introduction
-1. By using the 2, 30, 14 points of the face 68 landmarks to calculate the distance to each other. Then, calculate the two distance ratio. Finally, set the threshold to determine the face angle:
+1. By using the points of 2, 30, 14 in the face 68 landmarks to calculate the distance between each other. Then, calculate the two distance ratio. Finally, set the threshold to determine the face angle:
 
 <p align="center">
   <img  src="https://user-images.githubusercontent.com/56544982/154789750-d944a90c-041e-4f34-a39a-59b1f0676bbb.png" alt="Cover" width="60%"/>
