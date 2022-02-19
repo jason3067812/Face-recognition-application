@@ -42,13 +42,13 @@
 </p>
 
 ## Algorithms Introduction
-1. Using human faces 68 landmarks to implement face angle detection
+1. Using human faces 68 landmarks to implement face angle detection:
 
 <p align="center">
   <img  src="https://user-images.githubusercontent.com/56544982/154789539-2548741c-7eb5-4fae-bf40-36f9b6662c37.png" alt="Cover" width="60%"/>
 </p>
 
-2. Increasing frames rate by calculating bbox iou to implement face tracking 
+2. Increasing frames rate by calculating bbox iou to implement face tracking:
 
 <p align="center">
   <img  src="https://user-images.githubusercontent.com/56544982/154789576-4754c47d-5e82-4972-9145-3705df7b6cb5.png" alt="Cover" width="60%"/>
