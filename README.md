@@ -37,15 +37,20 @@
 </p>
 
 ### - 2. RPPG Based on Face Recognition
-
 <p align="center">
   <img  src="https://user-images.githubusercontent.com/56544982/143415359-75c7a9f4-4c8a-4371-8fcb-63622771fc7f.png" alt="Cover" width="60%"/>
 </p>
 
 ## Algorithms Introduction
 1. Using human faces 68 landmarks to implement face angle detection
+
+<p align="center">
+  <img  src="https://user-images.githubusercontent.com/56544982/154789539-2548741c-7eb5-4fae-bf40-36f9b6662c37.png" alt="Cover" width="60%"/>
+</p>
+
 2. Increasing frames rate by calculating bbox iou to implement face tracking 
-<br>< If you want to learn more please feel free to email me! >
+
+
 
 ## Interface demo
 ### - 1. Multi-Angle Face Recognition
